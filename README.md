@@ -9,6 +9,10 @@
 
 ![界面参考](references/banquet-seating-reference.png)
 
+## 产品需求
+
+[PRD 1.0](PRD.md)：汇总功能范围、P0/P1 分期、操作细节及18项验收用例。尚未实现；建议默认值已与用户明确需求区分。
+
 ## 开发接续
 
 每次继续前先读 [最新备份记录](BACKUP-LOG.md)，并遵循 [分阶段备份规则](AGENTS.md)。
